@@ -1,0 +1,11 @@
+All Rights Reserved
+
+Copyright (c) 2023 The Joy of Data
+
+This software and accompanying documentation are proprietary to [Your Name or Company]. Unauthorized copying, modification, distribution, public display, or public performance of this software is strictly prohibited. 
+
+Use of this software is only permitted with the express written consent of [Your Name or Company].
+
+NO WARRANTY: THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. 
+
+IN NO EVENT WILL [YOUR NAME OR COMPANY] BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OR MISUSE OF THIS SOFTWARE.
